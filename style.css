@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: aqua;
+}
+h1{
+    color: red;
+    /* background-color: rgb(230, 210, 196); */
+    z-index: 1;
+    text-align: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+img{
+    width: 200px;
+    height: 150px;
+    margin-left: 500px;
+    margin-top: 200px;
+}
